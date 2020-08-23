@@ -14,7 +14,7 @@ ___
 ___
 
 **Stats**
-![krypton-byte github stats](https://github-readme-stats.vercel.app/api?username=krypton-byte&show_icons=true&title_color=000&icon_color=79ff97&text_color=000)
+![krypton-byte github stats](https://github-readme-stats.vercel.app/api?username=krypton-byte&show_icons=true&theme=tokyonight)
 
 <!--
 **krypton-byte/krypton-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
