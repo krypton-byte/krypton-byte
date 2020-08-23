@@ -10,8 +10,8 @@
 ___
 
 ![krypton-byte github stats](https://github-readme-stats.vercel.app/api?username=krypton-byte&show_icons=true&theme=tokyonight)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krypton-byte&hide=css,html&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=krypton-byte&hide=css,html&theme=tokyonight)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=krypton-byte&repo=Quotes)](https://github.com/krypton-byte/Quotes)
 <!--
 **krypton-byte/krypton-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
