@@ -1,6 +1,6 @@
 ## Ya Halooo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<img src="https://raw.githubusercontent.com/krypton-byte/krypton-byte/master/asset/image/1.png" width="120" height="120" align="right">
+<img src="https://i.ibb.co/QkxdF4d/python.webp" width="120" height="120" align="right">
 <img align="left" alt="GIF" height="100px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" />
 <br>
 <br>
