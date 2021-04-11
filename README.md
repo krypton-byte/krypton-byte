@@ -1,7 +1,7 @@
 ## Ya Halooo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
-<img src="https://i.ibb.co/QkxdF4d/python.webp" width="120" height="120" align="right">
-<img align="left" alt="GIF" height="100px" src="https://i.giphy.com/media/LMt9638dO8dftAjtco/200.webp" />
+<img align="left" src="https://i.ibb.co/QkxdF4d/python.webp" width="120" height="120" >
+<a href="https://pypi.org/user/krypton-byte/"><img height="100px" src="asset/image/pip_big-removebg-preview.png" align="right"></a>
 <br>
 <br>
 <br>
