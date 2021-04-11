@@ -9,7 +9,14 @@
 
 ___
 
+<!--
 ![krypton-byte github stats](https://github-readme-stats.vercel.app/api?username=krypton-byte&show_icons=true&theme=tokyonight)
+-->
+# Donate
+<p align="center"><img src="https://svgur.com/i/Vtt.svg">
+
+</p>
+<ul><li><a href="https://saweria.co/kryptonbyte">Saweria</a><li><a href="https://wa.me/6283172366463">Whatsapp</a></li><li><a href="https://trakteer.id/krypton-byte-z8vbo">Trakteer</a></li></ul>
 <!--
 **krypton-byte/krypton-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
