@@ -1,6 +1,7 @@
 function href(url){
     window.open(url, '_blank');
 }
+
 $(document).ready(function(){
 
     mode = {
