@@ -1,3 +1,6 @@
+function href(url){
+    window.open(url, '_blank');
+}
 $(document).ready(function(){
 
     mode = {
@@ -11,9 +14,6 @@ $(document).ready(function(){
         }
     }
     mode_ = "night"
-    function href(url){
-        window.open(url, '_blank');
-    }
     $("#moon").on("click", switchMode)
     function switchMode(){
         color = mode_==='light'?mode.night:mode.light
