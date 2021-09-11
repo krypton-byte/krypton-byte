@@ -17,7 +17,7 @@ ___
 <p align="center"><img src="https://svgur.com/i/Vtt.svg">
 
 </p>
-<ul><li><a href="https://saweria.co/kryptonbyte">Saweria</a><li><a href="https://wa.me/6283172366463">Whatsapp</a></li><li><a href="https://trakteer.id/krypton-byte-z8vbo">Trakteer</a></li></ul>
+<ul><li><a href="https://saweria.co/kryptonbyte">Saweria</a><li><a href="https://wa.me/6283172366463">Whatsapp</a></li><li><a href="https://trakteer.id/krypton-byte-z8vbo">Trakteer</a></li><li><a href="https://paypal.me/kryptonbyte2?locale.x=id_ID">Paypal</a></li></ul>
 <!--
 **krypton-byte/krypton-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
