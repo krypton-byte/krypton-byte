@@ -21,6 +21,10 @@ li a {
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 14px;
     font-weight: bold;
+    border-style:ridge;
+    border-width: 1px;
+    border-radius: 10%;
+    border-color: black;
 
   }
   
@@ -30,24 +34,26 @@ li a:hover {
 }
 
 #intro {
-    width: 32%;
-    height: 20%;
+    width: 400px;
+    height: 20px;
     /*background-color: #3633ff;*/
+    font-size: 23px;
     border-radius: 6%;
     margin-top: 110px;
-    margin-left: 7%;
+    margin-left: 0px;
 }
 #imag img {
-    width: 70%;
+    margin-top: 0px;
+    width: 250px;
     border-radius: 10%;
 }
 p img {
-    width: 10%;
+    width: 10px;
 }
 #imag {
     position: absolute;
     top: 140px;
-    right: 7%;
+    right: 1px;
     /* background-color: #3633ff; */
     width: 30%;
 }
@@ -58,3 +64,4 @@ p img {
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
 }
+

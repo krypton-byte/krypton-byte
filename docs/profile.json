@@ -1,0 +1,40 @@
+{
+    "author":"krypton-byte",
+    "BIO":"",
+    "name":"Puja",
+    "image":"",
+    "birth":1102093200000,
+    "school":{
+        "BasicShool":{
+            "image":"sd.jpg",
+            "name":"SDN 3 Dawuan",
+            "period":"2011-2017",
+            "t":""
+        },
+        "JHSchool":{
+            "image":"smp.jpeg",
+            "name":"SMPN 2 DAWUAN",
+            "period":"2017-2019",
+            "t":""
+        },
+        "SHSchool":{
+            "image":"smk.jpeg",
+            "name":"SMKN 1 PANYINGKIRAN",
+            "period":"2019-2021",
+            "t":"Software Engineering"
+        }
+    },
+    "skill":[
+        {"icon":"python","name":"python","text":"python"},
+        {"icon":"Django", "name":"Django","text":"Django"},
+        {"icon":"Flask", "name":"Django", "text":"Flask"},
+        {"icon":"C++", "name":"C++", "text":"C++"},
+        {"icon":"javascript", "name":"javascript", "text":"javascript"}
+    ],
+    "social":{
+        "github":"https://github.com/krypton-byte",
+        "instagram":"https://instagram.com/krypton_byte",
+        "pypi":"https://pypi.org/user/krypton-byte",
+        "facebook":"https://facebook.com/krypton.byte.5"
+    }
+}
