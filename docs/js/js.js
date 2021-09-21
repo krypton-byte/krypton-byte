@@ -57,5 +57,5 @@ $(document).ready(function (){
     getcomp = function (keys){
         Object.keys(component).map(x=> x==keys?component[x].show():component[x].hide())
     }
-    getcomp("skill")
+    getcomp("profile")
 })
