@@ -9,7 +9,7 @@ ul {
 li {
     float: right;
 }
-#moon {
+#moon, #moon1 {
     margin-top: 10px;
 }
 li a {
@@ -17,7 +17,7 @@ li a {
     color: rgb(0, 0, 0);
     text-align: center;
     padding: 15px 27px;
-    text-decoration: none;
+    text-decoration:none;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 14px;
     font-weight: bold;
@@ -31,19 +31,27 @@ li a {
 li a:hover {
     background-color: #3633ff;
     border-radius: 10%;
+    color: black;
 }
-
+li a.activate {
+    background-color: #3633ff;
+    border-radius: 10%;
+    color: black;
+}
 #intro {
+    float: left;
     width: 400px;
     height: 20px;
     /*background-color: #3633ff;*/
-    font-size: 23px;
+    font-size: 20px;
     border-radius: 6%;
     margin-top: 110px;
     margin-left: 0px;
 }
+#iconsosmed {
+    /* float: inline-end; */
+}
 #imag img {
-    margin-top: 0px;
     width: 250px;
     border-radius: 10%;
 }
@@ -51,7 +59,8 @@ p img {
     width: 10px;
 }
 #imag {
-    position: absolute;
+    float: right;
+    margin-right: 10%;
     top: 140px;
     right: 1px;
     /* background-color: #3633ff; */
@@ -64,4 +73,32 @@ p img {
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
 }
-
+.col-md-3 .card {
+    border-radius: 10%;
+    border-color: #3633ff;
+    margin-top: 7px;
+}
+ul#mob li {
+    width: 100%;
+    margin-top: 16px;
+}
+ul#mob a {
+    border-radius: 0%;
+}
+.navbar {
+    display: none;
+} 
+/* When the screen is less than 600 pixels wide, hide all links, except for the first one ("Home"). Show the link that contains should open and close the topnav (.icon) */
+@media screen and (max-width: 600px) {
+    #navx {
+        display: none;
+    }
+    #mobilenavx {
+        display: block;
+        border-radius: 0% 0% 7% 7%;
+    }
+    
+  }
+@media screen and (max-width: 800px){
+}
+  

@@ -16,6 +16,7 @@ $(document).ready(function(){
     }
     mode_ = "night"
     $("#moon").on("click", switchMode)
+    $("#moon1").on("click", switchMode)
     function switchMode(){
         color = mode_==='light'?mode.night:mode.light
         mode_ = mode_==='light'?'night':'light'
@@ -52,7 +53,8 @@ $(document).ready(function (){
     component = {
         profile: $(".profile"),
         school: $(".school"),
-        skill: $(".skill")
+        skill: $(".skill"),
+        contact: $(".contact")
     }
     getcomp = function (keys){
         Object.keys(component).map(x=> x==keys?component[x].show():component[x].hide())
