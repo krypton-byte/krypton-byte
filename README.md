@@ -14,7 +14,7 @@ ___
 <!--
 ![krypton-byte github stats](https://github-readme-stats.vercel.app/api?username=krypton-byte&show_icons=true&theme=tokyonight)
 -->
-# Donate
+# Support me on
 <p align="center"><img src="https://svgur.com/i/Vtt.svg">
 
 </p>
