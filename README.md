@@ -3,19 +3,17 @@
 </p>
 <!-- <img align="left" src="https://i.ibb.co/QkxdF4d/python.webp" width="120" height="120" >
 <a href="https://pypi.org/user/krypton-byte/"><img height="140px" src="asset/image/pip_big-removebg-preview.png" align="right"></a> -->
-<br>
-<br>
-<br>
-<br>
+
 
 ___
 <!-- ![Metrics](https://metrics.lecoq.io/krypton-byte?template=classic&isocalendar=1&languages=1&introduction=1&people=1&gists=1&achievements=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=Python&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FJakarta) -->
 
-# Analytics
+## Analytics
 
 ![krypton-byte github stats](https://github-readme-stats.vercel.app/api?username=krypton-byte&show_icons=true&theme=tokyonight)
 
-# Live Project
+
+## Live Project
  <ul>
     <li>
         <a href="http://bytescrapper.herokuapp.com/">Twibbonize</a>
@@ -25,9 +23,40 @@ ___
     </li>
 </ul>
 
-# Support me on
+## My Skill Set  
+<div align="center">  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
+<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
+</div>
+<br />
 
-<ul><li><a href="https://saweria.co/kryptonbyte">Saweria</a><li><a href="https://wa.me/6283172366463">Whatsapp</a></li><li><a href="https://trakteer.id/krypton-byte-z8vbo">Trakteer</a></li><li><a href="https://paypal.me/kryptonbyte2?locale.x=id_ID"><img src="https://img.shields.io/badge/paypal-krypton--byte-%2300457C?logo=paypal"></img></a></li></ul>
+----
+
+
+## Support me on
+
+<ul>
+    <li>
+        <a href="https://saweria.co/kryptonbyte">Saweria</a>
+    </li>
+    <li>
+        <a href="https://wa.me/6283172366463">Whatsapp</a>
+    </li>
+    <li>
+        <a href="https://trakteer.id/krypton-byte-z8vbo">Trakteer</a>
+    </li>
+    <li>
+        <a href="https://paypal.me/kryptonbyte2?locale.x=id_ID">
+        <img src="https://img.shields.io/badge/paypal-krypton--byte-%2300457C?logo=paypal"></img>
+        </a>
+    </li>
+</ul>
 <!--
 **krypton-byte/krypton-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
