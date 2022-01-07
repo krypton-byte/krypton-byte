@@ -14,7 +14,7 @@ ___
 # Analytics
 
 ![krypton-byte github stats](https://github-readme-stats.vercel.app/api?username=krypton-byte&show_icons=true&theme=tokyonight)
--->
+
 # Support me on
 
 <ul><li><a href="https://saweria.co/kryptonbyte">Saweria</a><li><a href="https://wa.me/6283172366463">Whatsapp</a></li><li><a href="https://trakteer.id/krypton-byte-z8vbo">Trakteer</a></li><li><a href="https://paypal.me/kryptonbyte2?locale.x=id_ID"><img src="https://img.shields.io/badge/paypal-krypton--byte-%2300457C?logo=paypal"></img></a></li></ul>
