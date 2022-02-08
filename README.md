@@ -21,6 +21,12 @@ ___
     <li>
         <a href="http://tkdown.herokuapp.com/">Tiktok Downloader</a>
     </li>
+    <li>
+           <a href="https://pedulidiri.krypton-byte.codes">Catatan Perjalanan</a>
+       </li>
+    <li>
+           <a href="https://pengaduan.krypton-byte.codes">Pengaduan Masyarakat</a>
+       </li>
 </ul>
 
 ## My Skill Set  
