@@ -26,7 +26,10 @@ ___
        </li>
     <li>
            <a href="https://pengaduan.krypton-byte.codes">Pengaduan Masyarakat</a>
-       </li>
+    </li>
+    <li>
+           <a href="https://absensi.krypton-byte.codes">WEB Absensi</a>
+    </li>
 </ul>
 
 ## My Skill Set  
