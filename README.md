@@ -16,10 +16,10 @@ ___
 ## Live Project
  <ul>
     <li>
-        <a href="http://twibbonizes.id">Twibbonize</a>
+        <a href="https://twibbonizes.id">Twibbonize</a>
     </li>
     <li>
-        <a href="http://tkdown.herokuapp.com/">Tiktok Downloader</a>
+        <a href="https://tiktok-dl.id/">Tiktok Downloader</a>
     </li>
     <li>
            <a href="https://pedulidiri.krypton-byte.codes">Catatan Perjalanan</a>
