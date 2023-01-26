@@ -1,81 +1,97 @@
-<!-- ## Ya Halooo <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> -->
-<p align="center"><br><a href="https://wa.me/6283172366463"><img src="https://img.shields.io/badge/whatsapp-whastapp-%2325D366?logo=whatsapp"></a>&nbsp;<a href="https://m.facebook.com/krypton.byte.5"><img src="https://img.shields.io/badge/facebook-krypton--byte-%231877F2?logo=facebook"></a>&nbsp;<a href="https://www.instagram.com/krypton_byte"><img src="https://img.shields.io/badge/Instagram-krypton--byte-%23fc034e?logo=instagram"></a><br><img src="https://visitor-badge.glitch.me/badge?page_id=krypton-byte.krypron-byte&style=for-the-badge">
-</p>
-<!-- <img align="left" src="https://i.ibb.co/QkxdF4d/python.webp" width="120" height="120" >
-<a href="https://pypi.org/user/krypton-byte/"><img height="140px" src="asset/image/pip_big-removebg-preview.png" align="right"></a> -->
+## Hey 👋, I'm krypton-byte!  
+  
+
+<a href="https://github.com/krypton-byte" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/iamrishavanand" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>
+<a href="https://instagram.com/krypton_byte" target="_blank">
+<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
+</a>  
+  
 
 
-___
-<!-- ![Metrics](https://metrics.lecoq.io/krypton-byte?template=classic&isocalendar=1&languages=1&introduction=1&people=1&gists=1&achievements=1&isocalendar.duration=full-year&languages.limit=8&languages.sections=most-used&languages.colors=Python&languages.threshold=0%25&languages.indepth=false&languages.recent.load=300&languages.recent.days=14&introduction.title=true&people.limit=24&people.size=28&people.types=followers%2C%20following&people.identicons=false&people.shuffle=false&achievements.threshold=C&achievements.secrets=true&achievements.limit=0&config.timezone=Asia%2FJakarta) -->
 
-## Analytics
+### Glad to see you here!  
+I'm a python programmer who has turned freelancing into a full time career. i really like to write python programs neatly and prioritize hinting to understand, and now i'm learning kotlin and also jetpack compose i hope it can know and understand how to apply architecture cleanly  
+  
 
-![krypton-byte github stats](https://github-readme-stats.vercel.app/api?username=krypton-byte&show_icons=true&theme=tokyonight)
+<br/>  
 
 
-## Live Project
- <ul>
-    <li>
-        <a href="https://twibbonizes.id">Twibbonize</a>
-    </li>
-    <li>
-        <a href="https://tiktok-dl.id/">Tiktok Downloader</a>
-    </li>
-    <li>
-           <a href="https://pedulidiri.krypton-byte.codes">Catatan Perjalanan</a>
-       </li>
-    <li>
-           <a href="https://pengaduan.krypton-byte.codes">Pengaduan Masyarakat</a>
-    </li>
-    <li>
-           <a href="https://absensi.krypton-byte.codes">WEB Absensi</a>
-    </li>
-</ul>
+## Rapidfire  
+<table><tr><td valign="top" width="50%">
 
-## My Skill Set  
+- 🔭 I’m currently working on [Hujan Kode](https://github.com/krypton-byte)  
+  
+
+- 🌱 I’m currently learning Kotlin and Jetpack Compose  
+  
+
+- ❓ Ask me about anything related to python stack and related technologies  
+  
+
+- ⚡ Fun fact: I've always been curious about technological developments  
+
+
+</td><td valign="top" width="50%">
+
+<div align="center">
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+</div>  
+
+
+</td></tr></table>  
+
+<br/>  
+
+
+## Languages and Tools  
 <div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" />  
-</div>
+<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
+<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="25" /></a>  
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
+<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="25" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
+<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
+<a href="https://www.arduino.cc/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/arduino.png" alt="Arduino" height="25" /></a>  
+<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="25" /></a>  
+<a href="https://www.djangoproject.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/django-original.svg" alt="Django" height="25" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="25" /></a>  
+</div>  
+
+<br/>  
+
+
+## Github Stats  
+<table><tr><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api?username=krypton-byte&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+
+</td><td valign="top" width="50%">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=krypton-byte&hide_border=true&layout=compact" align="left" style="width: 100%" />
+
+</td></tr></table>  
+
+<br/>  
+
+  
+
+<br/>  
+
+![Profile views counter](https://komarev.com/ghpvc/?username=krypton-byte&&style=flat-square)  
+  
+
+<br/>  
+
+
 <br />
 
 ----
-
-
-## Support me on
-
-<ul>
-    <li>
-        <a href="https://saweria.co/kryptonbyte">Saweria</a>
-    </li>
-    <li>
-        <a href="https://wa.me/6283172366463">Whatsapp</a>
-    </li>
-    <li>
-        <a href="https://trakteer.id/krypton-byte-z8vbo">Trakteer</a>
-    </li>
-    <li>
-        <a href="https://paypal.me/kryptonbyte2?locale.x=id_ID">
-        <img src="https://img.shields.io/badge/paypal-krypton--byte-%2300457C?logo=paypal"></img>
-        </a>
-    </li>
-</ul>
-<!--
-**krypton-byte/krypton-byte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
